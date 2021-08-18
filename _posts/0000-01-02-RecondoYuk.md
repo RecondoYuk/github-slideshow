@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-Whatever I wanna say
+**Not my circus, not my monkeys**
 Use the left arrow to go back!
